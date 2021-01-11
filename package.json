@@ -9,5 +9,8 @@
   },
   "author": "Moldir Kazbek",
   "license": "ISC",
-  "description": "The project of testing"
+  "description": "The project of testing",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }

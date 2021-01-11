@@ -1,5 +1,6 @@
-function hello() {
-    console.log("hello dear lovely wife");
-}
+import _ from "lodash";
 
-hello();
+let a = _.intersection([2,1], [2,3]);
+
+console.log(a);
+console.log(_.last(['one', 'two']));
